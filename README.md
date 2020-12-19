@@ -1,2 +1,8 @@
-# gtest_playground
-Google Test Playground in C++
+# TDD with Google Test
+Test-driven Development with Google Test in C++.
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
