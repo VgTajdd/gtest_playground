@@ -2,8 +2,6 @@
 #include <gtest/gtest.h>
 #include "Checkout.h"
 
-using namespace std;
-
 class CheckoutTests : public ::testing::Test
 {
 public:

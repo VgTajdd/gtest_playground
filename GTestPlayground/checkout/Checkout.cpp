@@ -1,15 +1,12 @@
 #include "Checkout.h"
 #include <stdexcept>
 
-Checkout::Checkout() :total( 0 )
-{
-	// TODO Auto-generated constructor stub
-}
+Checkout::Checkout() :
+	total( 0 )
+{}
 
 Checkout::~Checkout()
-{
-	// TODO Auto-generated destructor stub
-}
+{}
 
 void Checkout::addItemPrice( std::string item, int price )
 {
